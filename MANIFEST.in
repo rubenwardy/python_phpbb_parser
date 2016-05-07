@@ -1,0 +1,2 @@
+include LICENCE.txt
+recursive-include phpbb-parser *.py *.html *.js

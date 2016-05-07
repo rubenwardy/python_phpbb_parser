@@ -19,7 +19,7 @@ setup(
 	long_description = "A parser to read data from third party phpBB forums",
 
 	# The project's main homepage.
-	url = "https://github.com/rubenwardy/python-phpbb-parser",
+	url = "https://github.com/rubenwardy/python_phpbb_parser",
 
 	# Author details
 	author = "rubenwardy",
